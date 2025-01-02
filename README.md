@@ -4,7 +4,13 @@
 
 Xây dựng một công cụ phân tích dữ liệu hữu ích và tiện lợi tên là Data_Analyst_LLMs. Công cụ này sử dụng các mô hình ngôn ngữ lớn (LLMs) để hỗ trợ việc thao tác và phân tích dữ liệu thông qua giao diện đàm thoại. Dự án này sử dụng Python, Langchain, Streamlit, PyGWalker, OpenAI API để tạo ra một ứng dụng web tương tác, cho phép người dùng tải lên dữ liệu, đặt câu hỏi, khám phá dữ liệu và nhận được các phân tích chi tiết.
 
-## Nội Dung Video
+## Application Interface
+
+### 1. Trò Chuyện với Dữ Liệu (Chat with yor Data)
+
+
+
+## Nội Dung Hướng Dẫn
 
 ### 1. Giới Thiệu về Data_Analyst_LLMs
 
